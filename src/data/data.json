@@ -1,0 +1,41 @@
+{
+
+    "Goals":
+    
+    [
+        {
+            "id":1,
+            "GoalName":"Goal1",
+            "Target":"Increase Percentage of Sales Made with New Products/Product Features1."
+        },
+        
+        {
+            "id":2,
+            "GoalName":"Goal2",
+            "Target":"Increase Percentage of Sales Made with New Products/Product Features2."
+        },
+
+        {
+            "id":3,
+            "GoalName":"Goal3",
+            "Target":"Increase Percentage of Sales Made with New Products/Product Features3."
+        }
+    ],
+    
+    "Strategy":
+    [
+        
+        {
+            "id":3,
+            "StrName":"Strategy1",
+            "Target":"Increase Percentage of Sales Made with New Products/Product Features3."
+        },
+        
+        {
+            "id":4,
+            "StrName":"Strategy2",
+            "Target":"Increase Percentage of Sales Made with New Products/Product Features4."
+        }
+    ]
+    
+    }
